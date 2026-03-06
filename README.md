@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Oren
-  <img src="https://i.pinimg.com/originals/dd/70/16/dd701604d237a4d74492795cdb185ac9.gif" width="50" style="vertical-align: middle;"/>
+  <img src="" width="50" style="vertical-align: middle;"/>
 </h1>
 <h3 align="center">Future Backend Developer | Future Software Engineer</h3>
 
