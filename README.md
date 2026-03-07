@@ -5,7 +5,7 @@
 <h3 align="center">Future Backend Developer</h3>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/348/34811.gif" width="500"/>
+  <img src="https://giffiles.alphacoders.com/348/34811.gif" width="550"/>
 </p>
 
 ---
