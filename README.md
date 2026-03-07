@@ -11,9 +11,8 @@
 ---
 
 ### About Me
-
-- 🎓 Studying WEB-DEV & OOP  
-- 💻 Now working with Angular, Java, JavaScript  
+  
+- 💻 Now studying and working with WebDev(JavaScript, Angular) & OOP(Java)
 
 ---
 
