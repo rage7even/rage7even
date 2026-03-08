@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Oren
-  <img src="" width="50" style="vertical-align: middle;"/>
+  <!-- <img src="" width="50" style="vertical-align: middle;"/> -->
 </h1>
 <h3 align="center">Future Backend Developer</h3>
 
