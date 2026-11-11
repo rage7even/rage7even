@@ -2,7 +2,7 @@
   Hi, I'm Oren
   <!-- <img src="" width="50" style="vertical-align: middle;"/> -->
 </h1>
-<h3 align="center">Future FullStack Developer (AI engineer now)</h3>
+<h3 align="center">Information Systems Student at KBTU | IT Infrastructure, DevOps & FullStack Development (AI egineering now)</h3>
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/348/34811.gif" width="550"/>
