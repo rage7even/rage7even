@@ -2,7 +2,7 @@
   Hi, I'm Oren
   <!-- <img src="" width="50" style="vertical-align: middle;"/> -->
 </h1>
-<h3 align="center">Future Backend Developer</h3>
+<h3 align="center">Future Backend Developer (AI engineer now)</h3>
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/348/34811.gif" width="550"/>
@@ -12,7 +12,7 @@
 
 ### About Me
   
-- 💻 Now studying and working with WebDev(JavaScript, Angular) & OOP(Java)
+- 💻 Now studying and working with DevOps (Terraform & Ansible)
 
 ---
 
